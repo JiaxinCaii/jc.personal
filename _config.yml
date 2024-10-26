@@ -21,7 +21,7 @@ repository               : "JiaxinCaii/jc.personal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://www.imghippo.com/i/UWy7612DiY.jpg"
+  avatar           : "profile.png"
   name             : "Jiaxin"
   pronouns         : "She/Her"
   bio              : "Fast-learning."
