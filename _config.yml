@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Jiaxin"
 description              : &description "personal description"
 url                      : "https://jiaxincaii.github.io"
-baseurl                  : "/jc.personal" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/jc.personal"
 repository               : "JiaxinCaii/jc.personal.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,8 +24,8 @@ author:
   avatar           : "profile_avater.jpg"
   name             : "Jiaxin"
   pronouns         : "She/Her"
-  bio              : "Fast-learning."
-  location         : "UK/Canada"
+  bio              : "A multi-skilled quick learner."
+  location         : "London, UK/Toronto, Canada"
   employer         : "University College London"
   uri              : # URL
   email            : "jiaxin.cai.24@ucl.uk.ac" 
