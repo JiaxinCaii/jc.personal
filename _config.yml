@@ -12,8 +12,8 @@ title                    : "Jiaxin's Homepage"
 title_separator          : "-"
 name                     : &name "Jiaxin"
 description              : &description "personal description"
-url                      : https://github.com/JiaxinCaii.github.io/
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://jiaxincaii.github.io"
+baseurl                  : "/jc.personal" # the subpath of your site, e.g. "/blog"
 repository               : "JiaxinCaii/jc.personal.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
