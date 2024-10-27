@@ -9,13 +9,13 @@ main:
     url: /files/JiaxinCai_Resume.pdf
 
   - title: "PROJECTS"
-    url: /projects/ECO225_Project_Final_Jiaxin (2).html
+    url: /_projects/ECO225_Project_Final_Jiaxin (2).html
 
   - title: "PYTHON HANDBOOK"
-    url: /python/
+    url: /_python/
 
   - title: "Rstudio HANDBOOK"
-    url: /rstudio/
+    url: /_rstudio/
 
   
   #- title: "Publications"
