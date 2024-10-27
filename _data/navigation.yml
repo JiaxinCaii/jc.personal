@@ -10,7 +10,14 @@ main:
 
   - title: "PROJECTS"
     url: /projects/
-    
+
+  - title: "PYTHON HANDBOOK"
+    url: /python/
+
+  - title: "Rstudio HANDBOOK"
+    url: /rstudio/
+
+  
   #- title: "Publications"
   #  url: /publications/
 
