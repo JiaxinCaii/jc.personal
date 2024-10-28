@@ -9,7 +9,7 @@ main:
     url: /files/JiaxinCai_Resume.pdf
 
   - title: "PROJECTS"
-    url: /_projects/ECO225_Project_Final_Jiaxin.pdf
+    url: /projects/
 
   - title: "PYTHON HANDBOOK"
     url: https://www.canva.com/design/DAGUyznbOvY/2hQtGwE4yN0mrOktPLnjsg/view?utm_content=DAGUyznbOvY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
@@ -18,8 +18,8 @@ main:
     url: https://www.canva.com/design/DAGU2ziLJ8c/UyF-hDmdJdnrTYlZg3n7nA/view?utm_content=DAGU2ziLJ8c&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
   
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
