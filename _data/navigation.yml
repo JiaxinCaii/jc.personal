@@ -10,10 +10,10 @@ main:
     url: /files/JiaxinCai_Resume.pdf
 
   - title: "PROJECTS"
-    url: /projects/
+    url: /_projects/
 
   - title: "PYTHON HANDBOOK"
-    url: /python/ipynb/
+    url: /_python/ipynb/
 
   - title: "Rstudio HANDBOOK"
     url: https://www.canva.com/design/DAGU2ziLJ8c/UyF-hDmdJdnrTYlZg3n7nA/view?utm_content=DAGU2ziLJ8c&utm_campaign=designshare&utm_medium=link&utm_source=editor
