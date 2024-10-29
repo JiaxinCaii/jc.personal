@@ -1,5 +1,5 @@
 ---
-permalink: /python/ipynb
+permalink: /_python/ipynb
 title: "Python"
 author_profile: true
 ---
