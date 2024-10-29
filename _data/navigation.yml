@@ -12,7 +12,7 @@ main:
     url: /projects/
 
   - title: "PYTHON HANDBOOK"
-  - url: /python/
+    url: /python/ipynb/
     # url: https://www.canva.com/design/DAGUyznbOvY/2hQtGwE4yN0mrOktPLnjsg/view?utm_content=DAGUyznbOvY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 
   - title: "Rstudio HANDBOOK"
