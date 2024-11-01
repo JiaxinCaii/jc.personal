@@ -1,6 +1,6 @@
 ---
 title: "Python"
-excerpt: "👋🏻 Welcome to My Python Learning Hub.<br/><img src='/images/image_python.png'>"
+excerpt: "👋🏻 Welcome to My Python Learning Hub.<br/><img src='https://github.com/JiaxinCaii/jc.personal/blob/master/images/image_python.png'>"
 ---
 ## Python
  - **[Python Mindmap](https://www.canva.com/design/DAGUyznbOvY/2hQtGwE4yN0mrOktPLnjsg/view?utm_content=DAGUyznbOvY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)**
