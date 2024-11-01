@@ -12,14 +12,14 @@ main:
   - title: "PROJECTS"
     url: /_projects/
 
-  - title: "PYTHON HANDBOOK"
-    url: /_python/ipynb/
+  #- title: "PYTHON HANDBOOK"
+  #  url: /_python/ipynb/
 
-  - title: "Rstudio HANDBOOK"
-    url: https://www.canva.com/design/DAGU2ziLJ8c/UyF-hDmdJdnrTYlZg3n7nA/view?utm_content=DAGU2ziLJ8c&utm_campaign=designshare&utm_medium=link&utm_source=editor
+  #- title: "Rstudio HANDBOOK"
+  #  url: https://www.canva.com/design/DAGU2ziLJ8c/UyF-hDmdJdnrTYlZg3n7nA/view?utm_content=DAGU2ziLJ8c&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
