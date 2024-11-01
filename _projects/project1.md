@@ -1,7 +1,8 @@
 ---
 title: "Big Tools for Data Science"
 excerpt: "📃My first full project.<br/><img src='/images/image_python.png'>"
-permalink: /projects/project1/
+collection: projects
+permalink: https://github.com/JiaxinCaii/jc.personal/blob/09d33f62cd524fe7b9b21151173d645110bd70c0/_projects/project1.md
 ---
 **Crime Patterns Across Chicago's Community Areas**
 
