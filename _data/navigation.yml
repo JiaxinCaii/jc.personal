@@ -10,7 +10,7 @@ main:
     url: /files/JiaxinCai_Resume.pdf
 
   - title: "PROJECTS"
-    url: https://github.com/JiaxinCaii/jc.personal/tree/master/_projects
+    url: /projects/
 
   - title: "NOTEBOOKS"
     url: /portfolio/
