@@ -1,6 +1,6 @@
 ---
 title: "R"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/image_r.png'>"
 collection: portfolio
 ---
 ## R Code
