@@ -1,7 +1,6 @@
 ---
 title: "R"
 excerpt: "👋🏻 Welcome to My R Learning Hub.<br/><img src='/images/image_r.png'>"
-collection: portfolio
 ---
 ## R Code
 
